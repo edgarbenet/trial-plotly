@@ -6,11 +6,12 @@ name = "pypi"
 [packages]
 plotly = "*"
 dash = "*"
-pylint = "*"
+pandas = "*"
+dash-bootstrap-components = "*"
 
 [dev-packages]
-pylint = "*"
 autopep8 = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.8"
